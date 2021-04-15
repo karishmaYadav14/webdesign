@@ -1,0 +1,150 @@
+*{
+	
+	box-sizing:border-box;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.logo img{
+
+	
+}
+
+
+.container{
+	width:400px;
+	height:350px;
+
+}
+.Cname{
+	
+    font-family: 'RocknRoll One', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #0445b1c9;
+    height: 150px;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 55px;
+    color: white;
+	}
+	
+.menu{
+
+	height:51px;
+	background-color:#36b2ea; 
+	margin-top:4px;
+	padding-top:16px;
+	text-align:center;
+	text-decoration:none;
+	    font-size: 20px;
+			font-family: 'Ubuntu', sans-serif;
+	
+}	
+
+.menu a{
+	text-decoration:none;
+	color:white;
+	display:block;
+}
+
+.menu a:hover{
+	background-color:#45D1F7 ;
+
+}
+
+
+.footer{
+	height:350px;
+	background-color:#354084 ;
+	margin-top:4px;
+	padding-top:15px;
+	color:white;
+	font-weight:bold;
+	font-size:px;
+	text-align:center;
+	box-shadow:5px 5px rgb(183, 200, 211);
+font-family: 'Ubuntu', sans-serif;	
+    margin-bottom:8px;
+	
+}
+
+.footer h4{
+	font-size:20px;
+	padding-bottom;10px;
+}
+.footer img{
+	margin-top:4px;
+	padding-top:10px;
+	border-radius:7px 4px;
+	
+
+}
+
+.img{
+	background-color:grey;
+}
+.section_banner{
+	height:60px;
+	background-color:white;
+	margin-top:15px;
+	padding-top:20px;
+	color:#3a3232d9;
+	font-weight:bold;
+	font-size:30px;
+	text-align:center;
+	
+	font-family: 'Oswald', sans-serif;
+	
+    margin-bottom:15px;
+	
+}
+
+.section_bannerr{
+	height:30px;
+	background-color:white;
+	margin-top:15px;
+	padding-top:20px;
+	color:white;
+	font-weight:bold;
+	font-size:20px;
+	text-align:center;
+	
+	font-family: 'Oswald', sans-serif;
+	
+    margin-bottom:15px;
+	
+}
+
+.sec img{
+	height:300px;
+}
+
+.ab_content {
+	text-align:justify;
+	font-size:px;
+	color:#655a5a;
+	transition: all 1s ease-in-out;
+	
+}
+
+.ab_content h2{
+	text-align:justify;
+	font-size:60px;
+	color:#655a5a;
+	transition: all 1s ease-in-out;
+	
+}
+
+ab_content:hover{
+		transform:rotate(360deg);
+	
+}
+
+.section_sales{
+	
+	border-radius:8px;
+	transition: all 1s ease-in-out;
+}
+
+.section-sales:hover{
+	transform:rotate(360deg);
+}

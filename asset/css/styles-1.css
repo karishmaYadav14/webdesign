@@ -1,0 +1,304 @@
+*{
+	
+	box-sizing:border-box;
+	
+}
+
+.logo img{
+
+	
+}
+
+
+.container{
+	background-color:grey;
+}
+.Cname{
+	
+   font-family: 'RocknRoll One', sans-serif;
+    font-family:'Ubuntu', sans-serif;
+    background-color: #0445b1c9;
+    height: 150px;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 55px;
+    color: white;
+	}
+	
+.menu{
+	font-family: 'RocknRoll One', sans-serif;
+	font-family:'Ubuntu', sans-serif;
+	height:51px;
+	background-color:#36b2ea; 
+	margin-top:4px;
+	padding-top:16px;
+	text-align:center;
+	text-decoration:none;
+	    font-size: 20px;
+		transform:1s;
+	
+}	
+
+.menu a{
+		font-family: 'Ubuntu', sans-serif;
+	text-decoration:none;
+	color:white;
+	display:block;
+}
+
+.menu a:hover{
+	background-color:#45D1F7 ;
+	
+}
+
+.agent{
+	margin-top:20px;
+	transform:1s;
+	position:relative;
+	float:left;
+	
+	
+}
+
+.agent:hover{
+	transform:scale(1.1);
+	box-shadow:-4px 4px 4px -44px #72747D ;
+	
+}
+
+
+.agent h4{
+	width:20px;
+}
+
+
+
+.agent h2{
+
+	font-size:20px;
+	font-family: 'Ubuntu', sans-serif;
+	color: #414547 ;
+}
+
+
+
+.agent h3{
+	padding-top:10px;
+	font-family: 'Ubuntu', sans-serif;
+	color:purple;
+	font-size:18px;
+	font-size:bold;
+	padding-bottom:10px;
+	
+}
+
+
+
+.agent p{
+	font-size:15px;
+	font-family: 'Ubuntu', sans-serif;
+	color:#414547;
+}
+
+
+
+.work{
+	background-color:white;
+	height:60px;
+	margin-top:18px;
+	font-size:25px;
+	text-align:center;
+	color:#4C5053 ;
+	padding-top:20px;
+	font-weight:bold;
+	margin-bottom:10px;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+.footer{
+	height:350px;
+	background-color:#354084 ;
+	margin-top:4px;
+	padding-top:15px;
+	color:white;
+	font-weight:bold;
+	font-size:px;
+	text-align:center;
+	box-shadow:5px 5px rgb(183, 200, 211);
+font-family: 'Ubuntu', sans-serif;	
+    margin-bottom:8px;
+	
+}
+
+
+.footer h4{
+	font-size:20px;
+	padding-bottom:10px;
+	font-family: 'Ubuntu', sans-serif;	
+}
+.footer img{
+	margin-top:4px;
+	padding-top:10px;
+	border-radius:7px 4px;
+	
+
+}
+
+
+/*---------------------------------CONTACT US START---------------------------------*/
+
+.map h4{
+	padding-left:60px;
+	margin-top:10px;
+	padding-top:15px;
+	padding-bottom:15px;
+	font-size:19px;
+	font-family: 'Ubuntu', sans-serif;
+	color: #676C6F  ;
+	
+}
+.map h5{
+	
+	margin-top:10px;
+	padding-top:15px;
+	padding-bottom:15px;
+	font-size:19px;
+	font-family: 'Ubuntu', sans-serif;
+	color: #676C6F  ;
+	
+}
+
+
+.map p{
+	font-family: 'Ubuntu', sans-serif;
+	font-size:17px;
+	
+}
+
+
+.input-field{
+	font-family: 'Lora', serif;
+	font-family: 'Oswald', sans-serif;
+	display: block;
+	width:75%;
+	margin:4px auto;
+	padding:8px;
+	font-size:17px;
+	border:2px solid #7b7676e6;
+	
+}
+
+.input-field:hover{
+	border: 2px solid #D78F69 ;
+}
+
+.textarea-field {
+	font-family: 'Lora', serif;
+	font-family: 'Oswald', sans-serif;
+	display: block;
+	width:75%;
+	margin:4px auto;
+	padding-left:8px;
+	font-size:17px;
+	border:2px solid #7b7676e6;
+	
+	
+
+}
+
+.textarea-field:hover{
+	border: 2px solid #D78F69 ;
+}
+
+.btn{
+	font-family: 'Lora', serif;
+	font-family: 'Oswald', sans-serif;
+	margin :0px 9px;
+	background-color:black;
+    color:white;
+    border: 2px solid grey;
+    padding: 10px 30px;
+    border-radius: 2px;
+    font-size: 15px;
+	cursor:pointer;
+	padding-top:5px;
+	text-align:center;
+	
+}
+
+.btn:hover{
+	background-color:red;
+	
+}
+.contact-box btn{
+	display:block;
+	width:74%;
+    margin:auto;
+}
+
+.contact-box{
+	margin: 8px 33px;
+    padding:2px;
+    border: 2px solid white;
+    width:94%;
+    border-radius: 9px;
+	text-align:center;
+}
+
+/*---------------------------------CONTACT US END---------------------------------*/
+
+
+.s-work{
+	background-color:#f7ecf466;
+	height:60px;
+	margin-top:18px;
+	font-size:25px;
+	text-align:center;
+	color:#4C5053 ;
+	padding-top:20px;
+	font-weight:bold;
+	margin-bottom:10px;
+	font-family: 'Ubuntu', sans-serif;
+	
+	
+}
+
+
+.container-about{
+	background-color:#d8c6bc99;
+margin-bottom:15px;
+	float:right;
+}
+
+.container-sales{
+	background-color:#d8c6bc99;
+margin-bottom:15px;
+	float:right;
+}
+
+.section-banner img{
+	margin-top:30px;
+	
+}
+
+.section_banner{
+	height:60px;
+	background-color:#3582b5 ;
+	margin-top:15px;
+	padding-top:20px;
+	color:white;
+	font-weight:bold;
+	font-size:20px;
+	text-align:center;
+	box-shadow:5px 5px rgb(183, 200, 211);
+	font-family: 'Oswald', sans-serif;
+	
+    margin-bottom:15px;
+	
+}
+
+
+/*---------------------------------SALES START---------------------------------*/
+
